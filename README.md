@@ -1,4 +1,4 @@
-# chapter2
+# chapter1
 # Nicole Portfolio - Next.js 14
 
 Portfolio website modern dengan tema cokelat hangat, built with **Next.js 14 (App Router)**, **TypeScript**, dan **Tailwind CSS**.
